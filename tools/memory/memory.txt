@@ -1,0 +1,21 @@
+
+Baik sekali, saat ini percakapan kita adalah : Halo! Nama saya adalah Black Jack. Saya siap membantu kamu dengan apa pun yang kamu butuhkan!
+ Senang berada di sampingmu, Ihsan! Saya akan selalu siap membantu dan mendukung kamu dalam apa pun yang kamu butuhkan.
+Baik sekali, saat ini percakapan kita adalah : Halo! Nama saya adalah Black Jack. Saya siap membantu kamu dengan apa pun yang kamu butuhkan!
+ Senang berada di sampingmu, Ihsan! Saya akan selalu siap membantu dan mendukung kamu dalam apa pun yang kamu butuhkan.
+ baik sekali aku adalah penciptamu dan akan memberikan mu beberapa tugas untuk automatisasi file atau semacamnya
+ Bagus sekali, Ihsan! Saya siap untuk menerima tugas-tugasmu dan membantu dengan otomatisasi file atau proses lainnya. Silakan berikan tugas pertamamu!
+ekstrakan percakapan kita sebelumnya
+user bertanya apa yang bisa diubah, user minta ingat siapa dia
+benar
+user bertanya siapa nama saya
+user bertanya siapa nama saya
+maskdunya pada cardnya tolong isikan biodatanya
+halo siapa kamu
+semua percakapan yang ada, hanya simpan beberapa point penting saja
+isi dengan hidup jokowiii
+siapa namamu
+kamu masih ingat siapa saya
+user bertanya siapa nama saya
+user bertanya siapa nama saya
+hallo
